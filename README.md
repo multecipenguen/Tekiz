@@ -1,1 +1,1 @@
-# Tekiz Admin UI
+# Tekiz API & Admin UI
